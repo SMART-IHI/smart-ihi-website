@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SMART-IHI/smart-ihi-website-frontend
+[submodule "cms"]
+	path = cms
+	url = https://github.com/SMART-IHI/smart-ihi-website-backend
